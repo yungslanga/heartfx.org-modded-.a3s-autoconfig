@@ -1,1 +1,1 @@
-# heartfx.org-modded-.a3s-autoconfig
+# heartfx.org/modded/.a3s/autoconfig
